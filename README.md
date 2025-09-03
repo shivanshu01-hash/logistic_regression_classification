@@ -46,4 +46,4 @@ This project demonstrates the implementation of **Logistic Regression** for a bi
 - Visualization helps interpret the model beyond metrics
 
 ## Author
-Developed by [Your Name]
+Developed by Shivanshu Sahu
