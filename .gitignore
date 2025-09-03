@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+*.sqlite3
+.DS_Store
+.env
+*.egg-info/
+# IDE settings
+.vscode/
+.idea/
+# OS generated files
+Thumbs.db
+Desktop.ini
